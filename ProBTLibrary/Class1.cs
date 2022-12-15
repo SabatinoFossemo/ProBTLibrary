@@ -1,5 +1,6 @@
-﻿namespace ProBTLibrary;
-public class Class1
+﻿namespace ProBT;
+
+public class ProBT
 {
 
 }
