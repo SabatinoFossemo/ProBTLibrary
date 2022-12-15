@@ -5,7 +5,7 @@ VisualStudioVersion = 25.0.1704.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProBTLibrary", "ProBTLibrary\ProBTLibrary.csproj", "{23F0F73D-BC83-4548-B0F8-79F0B0BCFE0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowCase", "ConsoleUI\ShowCase.csproj", "{0035DCD6-1496-4AF0-958D-17BE5C688BEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{0035DCD6-1496-4AF0-958D-17BE5C688BEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
